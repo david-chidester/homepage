@@ -18,19 +18,13 @@ const bookmarks = [
     ],
   },
   {
-    title: "Reddit",
+    title: "pony",
     links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
+      { name: "Equestria Daily", url: "https://equestriadaily.com" },
       {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
-      },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
-      {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
-      },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
+        name: "/r/mylittlepony",
+        url: "https://reddit.com/r/mylittlepony",
+      }
     ],
   },
   {
