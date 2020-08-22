@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 :root {
-  --bg: #5f4b8b;
+  --bg: #003366;
   --fg: #ffffff;
   --secondaryFg: #b3b3b3;
   --containerBg: #272727;
@@ -12,6 +12,9 @@
 
 body {
   background-color: var(--bg);
+  background-image: url(file:///opt/homepage/homepage_background.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
   margin: 0px;
 }
 

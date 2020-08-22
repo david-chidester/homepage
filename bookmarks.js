@@ -3,9 +3,9 @@ const bookmarks = [
   {
     title: "Daily",
     links: [
-      { name: "Inbox", url: "https://inbox.google.com" },
+      { name: "Inbox", url: "https://mail.protonmail.com" },
       { name: "GitHub", url: "https://github.com" },
-      { name: "Drive", url: "https://drive.google.com" },
+      { name: "Personal Site", url: "https://davidnchidester.com"},
     ],
   },
   {
@@ -14,10 +14,7 @@ const bookmarks = [
       { name: "Youtube", url: "https://youtube.com" },
       { name: "Netflix", url: "https://netflix.com" },
       { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
+      {name: "Nebula", url: "https://watchnebula.com"},
     ],
   },
   {
@@ -34,7 +31,6 @@ const bookmarks = [
         url: "https://reddit.com/r/battlestations",
       },
       { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
     ],
   },
   {

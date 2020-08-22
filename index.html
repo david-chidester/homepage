@@ -32,12 +32,12 @@
 
     <script src="bookmarks.js"></script>
     <script>
-      const searchUrl = "https://google.com/search?q=";
+      const searchUrl = "https://duckduckgo.com/?q=";
       // Search on enter key event
       function search(e) {
-        if (e.keyCode == 13) {
+        if (e.keyCode == 10 || e.keyCode == 13) { // must be 10 on linux
           var val = document.getElementById("search-field").value;
-          window.open(searchurl + val);
+          window.open(searchUrl + val);
         }
       }
       // Get current time and format
