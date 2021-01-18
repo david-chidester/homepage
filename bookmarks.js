@@ -5,7 +5,8 @@ const bookmarks = [
     links: [
       { name: "Inbox", url: "https://mail.protonmail.com" },
       { name: "GitHub", url: "https://github.com" },
-      { name: "Personal Site", url: "https://davidnchidester.com"},
+      { name: "Personal Site", url: "https://davidnchidester.com" },
+      { name: "Only Office", url: "https://personal.onlyoffice.com" },
     ],
   },
   {
@@ -14,24 +15,23 @@ const bookmarks = [
       { name: "Youtube", url: "https://youtube.com" },
       { name: "Netflix", url: "https://netflix.com" },
       { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {name: "Nebula", url: "https://watchnebula.com"},
+      { name: "Nebula", url: "https://watchnebula.com" },
+      { name: "Curiosity Stream", url: "https://curiositystream.com" },
     ],
   },
   {
     title: "pony",
     links: [
       { name: "Equestria Daily", url: "https://equestriadaily.com" },
-      {
-        name: "/r/mylittlepony",
-        url: "https://reddit.com/r/mylittlepony",
-      }
+      { name: "/r/mylittlepony", url: "https://reddit.com/r/mylittlepony" },
     ],
   },
   {
-    title: "Social",
+    title: "gaming",
     links: [
-      { name: "Twitter", url: "https://twitter.com" },
-      { name: "Facebook", url: "https://facebook.com" },
+      { name: "Steam", url: "https://steampowered.com" },
+      { name: "Proton DB", url: "https://protondb.com" },
+      { name: "GameFAQS", url: "https://gamefaqs.gamespot.com" },
     ],
   },
 ];
