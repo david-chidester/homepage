@@ -4,6 +4,7 @@ const bookmarks = [
     title: "Daily",
     links: [
       { name: "Inbox", url: "https://mail.protonmail.com" },
+      { name: "Calendar", url: "https://calendar.protonmail.com" },
       { name: "GitHub", url: "https://github.com" },
       { name: "Personal Site", url: "https://davidnchidester.com" },
       { name: "Only Office", url: "https://personal.onlyoffice.com" },
